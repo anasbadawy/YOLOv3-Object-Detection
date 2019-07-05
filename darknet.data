@@ -1,6 +1,0 @@
-classes = 1
-train  =  /home/enganas1997/mydata/enemy_train.txt
-valid  = /home/enganas1997/mydata/enemy_test.txt
-names = /home/enganas1997/mydata/classes.names
-backup = /home/enganas1997/mydata/weights/
-
