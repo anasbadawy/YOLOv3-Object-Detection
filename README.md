@@ -18,4 +18,7 @@ Training YOLOv3 Object Detector - emaraic
 5. after editing pathes start training = >  
 	./darknet detector train /home/enganas1997/yolo-custom-object-detector/custom/trainer.data /home/enganas1997/yolo-custom-object-detector/custom/yolov3-tiny.cfg  ./darknet53.conv.74
 
+6. Testing after editing pathes of .names, .weights and .cfg
+	python3 yolo_opencv.py
+
 notice that we already have yolov3.cfg file, trainer.data and objects.name inside "custom" folder
