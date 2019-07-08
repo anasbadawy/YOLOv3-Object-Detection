@@ -1,10 +1,10 @@
 import glob, os
 
 
-dataset_path = '/path/to/Dataset/images'
+dataset_path = '/home/enganas1997/mydata/Dataset/JPEGImages'
 
 # Percentage of images to be used for the test set
-percentage_test = 10;
+percentage_test = 20
 
 # Create and/or truncate train.txt and test.txt
 file_train = open('train.txt', 'w')  

@@ -1,5 +1,5 @@
 classes= 1  
-train  = custom/train.txt  
-valid  = custom/test.txt  
-names = custom/objects.names  
-backup = backup/
+train  = /home/enganas1997/mydata/custom/train.txt  
+valid  = /home/enganas1997/mydata/custom/test.txt  
+names = /home/enganas1997/mydata/custom/objects.names  
+backup = /home/enganas1997/mydata/backup/
