@@ -10,7 +10,7 @@ By following https://github.com/pjreddie/darknet installation steps, you could s
 - Start labeling your images using [labelImg tool](https://github.com/tzutalin/labelImg)
 - Download Pretrained Convolutional Weights by wget https://pjreddie.com/media/files/darknet53.conv.74
 - Clone this repository
-- Split your dataset using generate.py after editting pathes for your dataset path
+- Split your dataset using generate.py after editting pathes to your dataset
 - Now you are ready, start training your model using this command :
  ./darknet detector train cfg/path-to-your-data-file cfg/path-to-your-cfg-file backup/path-to-save-model ./path-to-darknet53-file/darknet53.conv.74 -> train.log
  
