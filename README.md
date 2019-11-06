@@ -4,4 +4,4 @@ This project implements an image and video UAVs(unmanned aerial vehicle) detecti
 
 ## How to use?
 
-by following https://github.com/pjreddie/darknet installation steps, you could start using yolo models. Then you could replace yolo model by the uploaded model here. This new trained model could be used only for detecting UAVs or even retrain it again using uploaded dataset and their labels.
+by following https://github.com/pjreddie/darknet installation steps, you could start using yolo models. By training a new model on the dataset that is uploaded here. You could have a new model which could detect uavs.
