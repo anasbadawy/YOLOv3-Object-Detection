@@ -6,5 +6,5 @@ This project implements an image and video UAVs(unmanned aerial vehicle) detecti
 
 by following https://github.com/pjreddie/darknet installation steps, you could start using yolo models. By training a new model on the dataset that is uploaded here. You could have a new model which could detect uavs. Moreover, for using yolo v3 to create your own model, Follow these steps after installing darknet framework:
 
+- collect your dataset (this a good [source ](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)to follow for collecting dataset from google)
 - clone this repository.
-- collect your dataset this a good [source ](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)to follow for collecting dataset from google
